@@ -1,1 +1,2 @@
-# Example-of-stiffness-calculation-in-APM-FEM-for-KOMPAS-3D
+This is some results of comparison of different profiles in frame and different placement of Z routes in 3d-printer
+Calculations made in free version of APM FEM module for KOMPAS-3D
