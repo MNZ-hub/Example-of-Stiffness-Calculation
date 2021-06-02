@@ -1,0 +1,1 @@
+# Example-of-stiffness-calculation-in-APM-FEM-for-KOMPAS-3D
